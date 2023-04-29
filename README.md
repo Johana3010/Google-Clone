@@ -3,9 +3,9 @@
 
 ## ÍNDICE 
 * [Introducción](https://github.com/Johana3010/Google-Clone/edit/main/README.md#-introducci%C3%B3n)
-*  [¿Qué construpi?]()
-*  [Objetivos del proyecto]()
-*  [¡Enlace al Demo!]()
+*  [¿Qué construpi?](https://github.com/Johana3010/Google-Clone/blob/main/README.md#%EF%B8%8F-qu%C3%A9-constru%C3%AD)
+*  [Objetivos del proyecto(https://github.com/Johana3010/Google-Clone/blob/main/README.md#-objetivo-del-proyecto)
+*  [¡Enlace al Demo!](https://github.com/Johana3010/Google-Clone/blob/main/README.md#-enlace-al-demo)
 
 ***
 
