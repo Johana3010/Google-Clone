@@ -2,7 +2,7 @@
 ##### Creado en el bootcamp de TecnolochicasPro🤍💻
 
 ## ÍNDICE 
-* [Introducción]()
+* [Introducción](https://github.com/Johana3010/Google-Clone/blob/main/README.md#-introducci%C3%B3n)
 *  [¿Qué construpi?]()
 *  [Objetivos del proyecto](https://github.com/Johana3010/Google-Clone/blob/main/README.md#-objetivo-del-proyecto)
 *  [¡Enlace al Demo!]()
